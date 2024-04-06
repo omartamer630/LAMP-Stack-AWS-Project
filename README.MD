@@ -4,7 +4,7 @@ Static Website Example
 To be used with Cloud Academy labs.
 
 asdasdasdfasdfasdf
-License
+Licenseasdasdadsfasdf
 ----------------------
 
 This static website is based on the Dimension template by [HTML5 UP](https://html5up.net/)
