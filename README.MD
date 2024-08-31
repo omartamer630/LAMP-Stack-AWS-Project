@@ -10,7 +10,7 @@ You can access the deployed application here: [Visit My Website](http://3.145.19
 
 ## Architecture Diagram
 
-![Architecture Diagram](infra/architecture-diagram.drawio)
+![Architecture Diagram](infra/architecture-diagram.drawio.png)
 
 
 The above diagram illustrates the infrastructure setup:
