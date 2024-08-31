@@ -12,6 +12,7 @@ You can access the deployed application here: [Visit My Website](http://3.145.19
 
 ![Architecture Diagram](infra/architecture-diagram.png)
 
+
 The above diagram illustrates the infrastructure setup:
 - **Developer**: Develops and manages the codebase using GitHub for version control.
 - **GitHub**: Stores the project's source code.
